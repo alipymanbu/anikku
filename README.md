@@ -1,170 +1,26 @@
-<div align="center">
+# Anikku
 
-<a href="https://anikku-app.github.io">
-    <img src="./.github/assets/icon.png" alt="anikku logo" title="anikku logo" width="80"/>
-</a>
+本仓库是「Anikku」的安卓版本获取入口，附使用资料索引。
 
-# Anikku [App](#)
+## 安装文件资源（夸克网盘）
 
-### Full-featured player, based on Aniyomi.
-Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.
+> **Anikku 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/53acf4c08143](https://pan.quark.cn/s/53acf4c08143)
 
-| Releases | Preview |
-|----------|---------|
-| <div align="center"> [![GitHub downloads](https://img.shields.io/github/downloads/komikku-app/anikku/latest/total?label=Latest%20Downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=flat)](https://github.com/komikku-app/anikku/releases/latest) [![GitHub downloads](https://img.shields.io/github/downloads/komikku-app/anikku/total?label=Total%20Downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=flat)](https://github.com/komikku-app/anikku/releases) [![Stable build](https://img.shields.io/github/actions/workflow/status/komikku-app/anikku/build_release.yml?labelColor=27303D&label=Stable&labelColor=06599d&color=043b69)](https://github.com/komikku-app/anikku/actions/workflows/build_release.yml) | <div align="center"> [![GitHub downloads](https://img.shields.io/github/downloads/komikku-app/anikku-preview/latest/total?label=Latest%20Downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=flat)](https://github.com/komikku-app/anikku-preview/releases/latest) [![GitHub downloads](https://img.shields.io/github/downloads/komikku-app/anikku-preview/total?label=Total%20Downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=flat)](https://github.com/komikku-app/anikku-preview/releases) [![Preview build](https://img.shields.io/github/actions/workflow/status/komikku-app/anikku-preview/build_app.yml?labelColor=27303D&label=Preview&labelColor=2c2c47&color=1c1c39)](https://github.com/komikku-app/anikku-preview/actions/workflows/build_app.yml) |
+## 官方项目
 
-[![Discord](https://img.shields.io/discord/1242381704459452488.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/85jB7V5AJR)
-[![CI](https://img.shields.io/github/actions/workflow/status/komikku-app/anikku/build_push.yml?labelColor=27303D&label=CI)](https://github.com/komikku-app/anikku/actions/workflows/build_push.yml)
-[![License: Apache-2.0](https://img.shields.io/github/license/komikku-app/anikku?labelColor=27303D&color=0877d2)](/LICENSE)
-[![Translation status](https://hosted.weblate.org/widget/komikku-app/anikku/svg-badge.svg)](https://hosted.weblate.org/projects/komikku-app/anikku/)
+- 上游项目：[komikku-app/anikku](https://github.com/komikku-app/anikku)
 
-## Download
+## 更多资料
 
-[![Stable](https://img.shields.io/github/release/komikku-app/anikku.svg?maxAge=3600&label=Stable&labelColor=06599d&color=043b69)](https://github.com/komikku-app/anikku/releases/latest)
-[![Preview](https://img.shields.io/github/v/release/komikku-app/anikku-preview.svg?maxAge=3600&label=Preview&labelColor=2c2c47&color=1c1c39)](https://github.com/komikku-app/anikku-preview/releases/latest)
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [备份与数据迁移](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB.md)
+- [常见问题排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5.md)
+- [扩展与内容源配置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E6%89%A9%E5%B1%95%E4%B8%8E%E5%86%85%E5%AE%B9%E6%BA%90%E9%85%8D%E7%BD%AE.md)
+- [换源迁移指南](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E6%8D%A2%E6%BA%90%E8%BF%81%E7%A7%BB%E6%8C%87%E5%8D%97.md)
+- [本地视频导入播放](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E6%9C%AC%E5%9C%B0%E8%A7%86%E9%A2%91%E5%AF%BC%E5%85%A5%E6%92%AD%E6%94%BE.md)
+- [追番与播放设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Anikku/%E8%BF%BD%E7%95%AA%E4%B8%8E%E6%92%AD%E6%94%BE%E8%AE%BE%E7%BD%AE.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-*Requires Android 8.0 or higher.*
+---
 
-[![Sponsor me on GitHub](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/cuong-tran "Sponsor me on GitHub")
-
-## Features
-
-![screenshots of app](./.github/readme-images/screens.png)
-
-<div align="left">
-
-### Features include:
-
-* **Anikku**:
-  * `Anime Suggestions` automatically showing source-website's recommendations / suggestions / related to current entry for all sources.
-  * `Auto theme color` based on each entry's cover for entry View & Reader.
-  * `App custom theme` with `Color palettes` for endless color lover.
-  * `Bulk-favorite` multiple entries all at once.
-  * `Fast browsing` (for who with large library experiencing slow loading)
-  * Auto `2-way sync` progress with trackers.
-  * Support `Android TV`, `Fire TV`.
-  * From SY:
-    * `Anime Recommendations` showing community recommends from Anilist, MyAnimeList.
-    * Edit `Anime Info` manually, or fill data from MyAnimeList, Kitsu, Shikimori, Bangumi, Simkl.
-    * `Custom cover` with files or URL.
-    * `Feed tab`, where you can easily view the latest entries or saved search from multiple sources at same time.
-    * `Saving searches` & filters, can use them with `Feed-tab`
-    * `Pin anime` to top of Library with `Tag` sort.
-    * `Merge anime` allow merging separated anime/episodes into one entry.
-    * `Lewd filter`, hide the lewd anime in your library when you want to.
-    * `Tracking filter`, filter your tracked anime so you can see them or see non-tracked anime.
-    * `Search tracking` status in library.
-    * `Mass-migration` all your anime from one source to another at same time.
-    * `Dynamic Categories`, view the library in multiple ways.
-    * `Custom categories` for sources, liked the pinned sources, but you can make your own versions and put any sources in them.
-    * Cross device `Library sync` with SyncYomi & Google Drive.
-  * Anime `cover on Updates notification`.
-  * `Panorama cover` showing wide cover in full.
-  * `to-be-updated` screen: which entries are going to be checked with smart-update?
-  * `Update Error` screen & migrating them away.
-  * `Source & Language icon` on Library & various places. (Some language flags are not really accurate)
-  * `Grouped updates` in Update tab (inspired by J2K).
-  * Drag & Drop re-order `Categories`.
-  * Ability to `enable/disable repo`, with icon.
-  * `Search for sources` & Quick NSFW sources filter in Extensions, Browse & Migration screen.
-  * In-app `progress banner` shows Library syncing / Backup restoring / Library updating progress.
-  * Long-click to add/remove single entry to/from library, everywhere.
-  * Docking Watch/Resume button to left/right.
-  * Auto-install app update.
-  * Configurable interval to refresh entries from downloaded storage.
-  * And many more from same maintainer's app for Manga reader: [Komikku](https://github.com/komikku-app/komikku)
-* Aniyomi:
-  * Watching videos
-  * Local watching of downloaded content
-  * A configurable player built on mpv-android with multiple options and settings
-  * Tracker support: [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.app/), [Simkl](https://simkl.in/), [Shikimori](https://shikimori.one), and [Bangumi](https://bgm.tv/)
-  * Categories to organize your library
-  * Create backups locally to watch offline or to your desired cloud service
-* Other forks' features:
-  * Torrent support (Needs right extensions) (@Diegopyl1209)
-  * Support for Cast functionality (Animetail)
-  * Group by tags in library (Kuukiyomi)
-  * Discord Rich Presence (Animiru, Kuukiyomi, Animetail)
-
-# Issues, Feature Requests and Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-<details><summary>Issues</summary>
-
-[Website](https://anikku-app.github.io/)
-
-1. **Before reporting a new issue, take a look at the [FAQ](https://anikku-app.github.io/docs/faq/general), the [changelog](https://github.com/komikku-app/anikku/releases) and the already opened [issues](https://github.com/komikku-app/anikku/issues).**
-2. If you are unsure, ask here: [![Discord](https://img.shields.io/discord/1242381704459452488.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/85jB7V5AJR)
-
-</details>
-
-<details><summary>Bugs</summary>
-
-* Include version (More → About → Version)
- * If not latest, try updating, it may have already been solved
- * Preview version is equal to the number of commits as seen on the main page
-* Include steps to reproduce (if not obvious from description)
-* Include screenshot (if needed)
-* If it could be device-dependent, try reproducing on another device (if possible)
-* Don't group unrelated requests into one issue
-
-Use the [issue forms](https://github.com/komikku-app/anikku/issues/new/choose) to submit a bug.
-
-</details>
-
-<details><summary>Feature Requests</summary>
-
-* Write a detailed issue, explaining what it should do or how.
-* Include screenshot (if needed).
-</details>
-
-<details><summary>Contributing</summary>
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
-</details>
-
-<details><summary>Code of Conduct</summary>
-
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
-</details>
-
-</div>
-
-### Credits
-
-Thank you to all the people who have contributed!
-
-<a href="https://github.com/komikku-app/anikku/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=aniyomiorg/aniyomi" alt="Anikku app contributors" title="Anikku app contributors" width="800"/>
-</a>
-
-![Visitor Count](https://count.getloli.com/get/@komikku-app?theme=capoo-2)
-
-### Disclaimer
-
-The developer(s) of this application does not have any affiliation with the content providers available, and this application hosts zero content.
-
-<div align="left">
-
-## License
-
-<pre>
-Copyright © 2015 Javier Tomás
-Copyright © 2024 The Mihon Open Source Project
-Copyright © 2024 The Aniyomi Open Source Project
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-</pre>
-
-</div>
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/komikku-app/anikku)。
